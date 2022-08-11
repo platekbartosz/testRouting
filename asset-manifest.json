@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "//platekbartosz.github.io/testRouting/static/css/main.073c9b0a.css",
-    "main.js": "//platekbartosz.github.io/testRouting/static/js/main.56604396.js",
+    "main.js": "//platekbartosz.github.io/testRouting/static/js/main.3ca79d60.js",
     "index.html": "//platekbartosz.github.io/testRouting/index.html",
     "main.073c9b0a.css.map": "//platekbartosz.github.io/testRouting/static/css/main.073c9b0a.css.map",
-    "main.56604396.js.map": "//platekbartosz.github.io/testRouting/static/js/main.56604396.js.map"
+    "main.3ca79d60.js.map": "//platekbartosz.github.io/testRouting/static/js/main.3ca79d60.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.56604396.js"
+    "static/js/main.3ca79d60.js"
   ]
 }
