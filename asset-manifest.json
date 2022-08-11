@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "//platekbartosz.github.io/testRouting/static/css/main.073c9b0a.css",
-    "main.js": "//platekbartosz.github.io/testRouting/static/js/main.2637d4fa.js",
+    "main.js": "//platekbartosz.github.io/testRouting/static/js/main.9b231f1a.js",
     "static/js/787.0c3f432a.chunk.js": "//platekbartosz.github.io/testRouting/static/js/787.0c3f432a.chunk.js",
-    "static/media/logo.svg": "//platekbartosz.github.io/testRouting/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "//platekbartosz.github.io/testRouting/index.html",
     "main.073c9b0a.css.map": "//platekbartosz.github.io/testRouting/static/css/main.073c9b0a.css.map",
-    "main.2637d4fa.js.map": "//platekbartosz.github.io/testRouting/static/js/main.2637d4fa.js.map",
+    "main.9b231f1a.js.map": "//platekbartosz.github.io/testRouting/static/js/main.9b231f1a.js.map",
     "787.0c3f432a.chunk.js.map": "//platekbartosz.github.io/testRouting/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2637d4fa.js"
+    "static/js/main.9b231f1a.js"
   ]
 }
